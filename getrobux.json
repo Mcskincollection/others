@@ -15,13 +15,13 @@
 		{
 			"name": "Get free Robux",
 			"type": "url",
-			"icon": "https://skins2.app.com.tc/others/mcskincollection_home.png",
+			"icon": "https://skins2.app.com.tc/others/getrobux/mcskincollection_home.png",
 			"url": "https://app.com.tc/mods/category/howtorbx/"
 		},
 		{
 			"name": "Privacy Policy",
 			"type": "assets",
-			"icon": "https://skins2.app.com.tc/assets/mcskincollection_privacy.png",
+			"icon": "https://skins2.app.com.tc/others/getrobux/mcskincollection_privacy.png",
 			"url": "mcskincollection_policy.html"
 		}
 	],
