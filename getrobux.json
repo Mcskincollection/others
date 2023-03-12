@@ -15,16 +15,9 @@
 		{
 			"name": "Get free Robux",
 			"type": "url",
-			"icon": "https://skins2.app.com.tc/assets/mcskincollection_home.png",
-			"url": "https://skins2.app.com.tc/skins/aaronskinsmc/"
+			"icon": "https://skins2.app.com.tc/others/mcskincollection_home.png",
+			"url": "https://app.com.tc/mods/category/howtorbx/"
 		},
-		{
-			"name": "Instruction",
-			"type": "url",
-			"icon": "https://skins2.app.com.tc/assets/mcskincollection_instruction.png",
-			"url": "https://skins2.app.com.tc/assets/how"
-		},
-
 		{
 			"name": "Privacy Policy",
 			"type": "assets",
