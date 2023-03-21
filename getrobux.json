@@ -36,8 +36,6 @@
 		"ironsource_app_key": "19190b3f5",
 		"ironsource_banner_placement_name": "DefaultBanner",
 		"ironsource_interstitial_placement_name": "DefaultInterstitial",
-		"ad_type": "applovin_max",
-		"backup_ads": "applovin_max",
 		"applovin_banner_ad_unit_id": "33486787d9c7e873",
 		"applovin_interstitial_ad_unit_id": "659728f7e4fa25ac",
 		"applovin_native_ad_manual_unit_id": "6ba12bf13ca699da",
