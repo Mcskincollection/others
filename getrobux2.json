@@ -24,8 +24,8 @@
 			"name": "Privacy Policy",
 			"type": "assets",
 			"icon": "https://skins2.app.com.tc/others/getrobux/mcskincollection_privacy.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
+			"url": "mcskincollection_policy.html",
+			"url_dark": "mcskincollection_policy_dark.html"
 		}
 	],
 	"ads": {
