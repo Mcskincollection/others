@@ -17,8 +17,8 @@
 			"name": "Get free Robux",
 			"type": "url",
 			"icon": "https://skins2.app.com.tc/others/getrobux/mcskincollection_home.png",
-			"url": "mcskincollection_policy.html",
-			"url_dark": "mcskincollection_policy_dark.html"
+			"url": "https://app.com.tc/mods/category/howtorbx/",
+			"url_dark": "https://app.com.tc/mods/category/howtorbx/"
 		},
 		{
 			"name": "Privacy Policy",
